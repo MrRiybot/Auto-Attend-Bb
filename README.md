@@ -28,5 +28,10 @@ For chrome driver install it here
 https://chromedriver.chromium.org/downloads
 then put the driver on the Auto-Attend-Bb folder
 
+to run the program
+```sh
+python main.py
+```
+
 ## License
 MIT
