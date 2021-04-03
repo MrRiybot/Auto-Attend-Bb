@@ -4,10 +4,6 @@
 
 Auto-Attend-Bb is a simple python program that attends your classes in BlackBoard automatically
 
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
-
 ## Features
 
 - easy and simple to use
